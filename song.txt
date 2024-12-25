@@ -1,0 +1,56 @@
+Tempo: 90 BPM
+Time signature: 3/4
+
+Song notes:
+
+1st bar
+
+G5 - 1 beat
+silence - 1 beat
+G5 - 1 beat
+A5 - 1 beat
+G5 - 1 beat
+F#5 - 1 beat
+E5 - 2 beats
+E5 - 1 beat
+silence - 1 beat
+E5 - 2 beats
+
+2nd bar
+
+A5 - 1 beat
+silence - 1 beat
+A5 - 1 beat
+B5 - 1 beat
+A5 - 1 beat
+G#5 - 1 beat
+F#5 - 2 beats
+F#5 - 1 beat
+silence - 1  beat
+F#5 - 2 beats
+
+3rd bar
+
+B5 - 1 beat
+silence - 1 beat
+B5 - 1 beat
+C#5 - 1 beat
+B5 - 1 beat
+A5 - 1 beat
+G5 - 2 beats
+E5 - 1 beat
+silence - 1 beat
+B4 - 1 beat
+C#5 - 1 beat
+
+4th bar
+
+D#5 - 1 beat
+silence - 1 beat
+A5 - 1 beat
+silence - 1 beat
+F5 - 1 beat
+silence - 1 beat
+G5 - 2 beats
+silence - 2 beats
+C#5 - 2 beats
